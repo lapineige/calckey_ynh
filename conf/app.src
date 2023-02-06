@@ -1,5 +1,5 @@
-SOURCE_URL=https://codeberg.org/calckey/calckey/archive/v13.1.1.tar.gz
-SOURCE_SUM=934d839d7c5af858f064481da2060ef1875839a6a13e0fa8043651f48b5bc175
+SOURCE_URL=https://codeberg.org/calckey/calckey/archive/v13.1.2.tar.gz
+SOURCE_SUM=1ca6ace1bac1f9bfba70fc55f828f8c6f3bcc042003a6fe8d9fb16df0ad678eb
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=tar.gz
 SOURCE_IN_SUBDIR=true
